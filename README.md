@@ -57,8 +57,8 @@
 ## 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/rafitadev/REPO-NAME-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rafitadev&repo=REPO-NAME-1&theme=dark&hide_border=true&bg_color=0d0d0d" /></a>
-  <a href="https://github.com/rafitadev/REPO-NAME-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rafitadev&repo=REPO-NAME-2&theme=dark&hide_border=true&bg_color=0d0d0d" /></a>
+  <a href="https://github.com/rafitadev/GinkgoMainlineAndroid"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rafitadev&repo=GinkgoMainlineAndroid&theme=dark&hide_border=true&bg_color=0d0d0d" /></a>
+  <a href="https://github.com/rafitadev/RafitaChan_8890"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rafitadev&repo=RafitaChan_8890&theme=dark&hide_border=true&bg_color=0d0d0d" /></a>
 </p>
 
 ---
