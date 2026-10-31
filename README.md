@@ -2,26 +2,24 @@
   <img src="./banner.png" alt="Hey! I am @RafitaDev - Developer" width="100%"/>
 </p>
 
-<h1 align="center">👋 Olá, eu sou o Rafael (@rafitadev)</h1>
+<h1 align="center">👋 Hi, I'm Rafael (@rafitadev)</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/rafitadev?label=Seguidores&style=for-the-badge&logo=github&color=black" />
-  <img src="https://komarev.com/ghpvc/?username=rafitadev&label=Visitas&color=333333&style=for-the-badge" />
-  <a href="mailto:rafaelcazari2013@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contato-black?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/github/followers/rafitadev?label=Followers&style=for-the-badge&logo=github&color=black" />
+  <img src="https://komarev.com/ghpvc/?username=rafitadev&label=Profile%20Views&color=333333&style=for-the-badge" />
 </p>
 
 ---
 
-## 🧑‍💻 Sobre mim
+## 🧑‍💻 About me
 
-- 🔭 Trabalhando em projetos de **Android / ROMs / Kernel**
-- 🌱 Aprendendo cada dia mais sobre desenvolvimento de sistemas
-- 💬 Pergunte-me sobre: **Android, Linux, BPF, Shell, Git**
-- 📫 Contato: [rafaelcazari2013@gmail.com](mailto:rafaelcazari2013@gmail.com)
+- 🔭 Working on **Android / ROM / Kernel** projects
+- 🌱 Learning more about systems development every day
+- 💬 Ask me about: **Android, Linux, BPF, Shell, Git**
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,c,cpp,java,kotlin,python,git,github,androidstudio,vscode&theme=dark" />
@@ -29,7 +27,7 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=rafitadev&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d" />
@@ -46,20 +44,17 @@
 
 ---
 
-## 📌 Projetos em destaque
+## 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/rafitadev/NOME-DO-REPO-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rafitadev&repo=NOME-DO-REPO-1&theme=dark&hide_border=true&bg_color=0d0d0d" /></a>
-  <a href="https://github.com/rafitadev/NOME-DO-REPO-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rafitadev&repo=NOME-DO-REPO-2&theme=dark&hide_border=true&bg_color=0d0d0d" /></a>
+  <a href="https://github.com/rafitadev/REPO-NAME-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rafitadev&repo=REPO-NAME-1&theme=dark&hide_border=true&bg_color=0d0d0d" /></a>
+  <a href="https://github.com/rafitadev/REPO-NAME-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rafitadev&repo=REPO-NAME-2&theme=dark&hide_border=true&bg_color=0d0d0d" /></a>
 </p>
 
 ---
 
-## 🌐 Redes
-
 <p align="center">
   <a href="https://github.com/rafitadev"><img src="https://img.shields.io/badge/GitHub-rafitadev-black?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:rafaelcazari2013@gmail.com"><img src="https://img.shields.io/badge/Email-Enviar-black?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>⭐ Deixe uma estrela nos meus repositórios se gostou!</i></p>
+<p align="center"><i>⭐ Leave a star on my repositories if you like them!</i></p>
