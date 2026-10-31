@@ -27,6 +27,16 @@
 
 ---
 
+## 📱 Devices
+
+| Device | Chipset |
+|---|---|
+| 📱 **Redmi Note 8** | Qualcomm Snapdragon 665 |
+| 📱 **Samsung Galaxy Note7** | Samsung Exynos 8890 |
+| 📱 **Samsung Galaxy S7 Edge** | Samsung Exynos 8890 |
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
